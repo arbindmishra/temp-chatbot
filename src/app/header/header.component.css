@@ -1,0 +1,12 @@
+
+.headerCls{
+    background-color: #f5db75;
+    color:white;
+    box-shadow: 0px 0px 30px #f5757b;
+    height: 100px;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  

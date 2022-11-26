@@ -1,0 +1,33 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif;background-color:#F6E1D9; } */
+
+/* .chatbot{
+  color: #444;
+  font: Roboto;
+  text-align: center;
+  font-size: 60px;
+  position: absolute;
+  text-align: center;
+  right: 0;
+  left: 0;
+  top: 15%;
+} */
+/*
+body{
+  background: linear-gradient(-45deg, #F7BE58,#efcf4e,#b46639,#F37585);
+  background-size: 400% 400%;
+  animation: change 10s ease-in-out infinite;
+}
+@keyframes change {
+  0%{
+    background-position: 0 50%;
+  }
+  50%{
+    background-position: 100% 50%;
+  }
+  100%{
+    background-position: 0 50%;
+  }
+} */
